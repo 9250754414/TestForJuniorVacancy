@@ -1,0 +1,2 @@
+# TestForJuniorVacancy
+C# Приложение
